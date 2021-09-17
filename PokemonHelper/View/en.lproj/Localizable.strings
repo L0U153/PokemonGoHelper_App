@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PokemonHelper
+
+  Created by Student on 5/5/20.
+  Copyright © 2020 Louise Lu. All rights reserved.
+*/
+"Pokemon Helper"="Pokemon Helper";
+"Pokemon Name"="Pokemon Name";
+"Search"="Search";
+"Browse"="Browse";
+"All Pokemon"="All Pokemon";
+"Cancel"="Cancel";
+"Name: "="Name: ";
+"Pokedex: "="Pokedex: ";
+"Type: "="Type: ";
+"Ability: "="Ability: ";
+"Like"="Like";
+"Unlike"="Unlike";
+"Detail"="Detail";
+"Favorites"="Favorites";

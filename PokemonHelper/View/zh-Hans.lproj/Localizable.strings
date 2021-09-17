@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PokemonHelper
+
+  Created by Student on 5/5/20.
+  Copyright © 2020 Louise Lu. All rights reserved.
+*/
+"Pokemon Helper"="宝可梦助手";
+"Pokemon Name"="宝可梦名字";
+"Search"="搜索";
+"Browse"="浏览";
+"All Pokemon"="全部宝可梦";
+"Cancel"="取消";
+"Name: "="名字：";
+"Pokedex: "="宝可梦序号：";
+"Type: "="类型：";
+"Ability: "="能力：";
+"Like"="喜欢";
+"Unlike"="取消喜欢";
+"Detail"="详细情报";
+"Favorites"="收藏";

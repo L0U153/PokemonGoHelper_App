@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Pokemon Helper"; ObjectID = "001-TH-hip"; */
+"001-TH-hip.text" = "宝可梦助手";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "2sG-Fo-Iaj"; */
+"2sG-Fo-Iaj.text" = "Subtitle";
+
+/* Class = "UIBarButtonItem"; title = "share"; ObjectID = "32e-5J-aaS"; */
+"32e-5J-aaS.title" = "share";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "5w0-SE-6hE"; */
+"5w0-SE-6hE.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Pokemon Name"; ObjectID = "9sO-Xo-40m"; */
+"9sO-Xo-40m.placeholder" = "宝可梦名字";
+
+/* Class = "UILabel"; text = "bulbasaur"; ObjectID = "C6A-6e-n5D"; */
+"C6A-6e-n5D.text" = "bulbasaur";
+
+/* Class = "UILabel"; text = "Ability: "; ObjectID = "LgY-j7-r5Q"; */
+"LgY-j7-r5Q.text" = "能力：";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "N8h-aT-oXc"; */
+"N8h-aT-oXc.title" = "收藏";
+
+/* Class = "UITabBarItem"; title = "Browse"; ObjectID = "QBb-SP-zY2"; */
+"QBb-SP-zY2.title" = "浏览";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "SJa-Cw-VvZ"; */
+"SJa-Cw-VvZ.normalTitle" = "搜索";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "Vdk-52-EDh"; */
+"Vdk-52-EDh.normalTitle" = "喜欢";
+
+/* Class = "UINavigationItem"; title = "All Pokemon"; ObjectID = "a8z-x2-O73"; */
+"a8z-x2-O73.title" = "全部宝可梦";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "b3R-Pg-Jye"; */
+"b3R-Pg-Jye.text" = "Title";
+
+/* Class = "UILabel"; text = "Type: "; ObjectID = "ivL-Jp-BRg"; */
+"ivL-Jp-BRg.text" = "类型：";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "o7z-gn-hEJ"; */
+"o7z-gn-hEJ.title" = "详细情报";
+
+/* Class = "UILabel"; text = "Pokedex: "; ObjectID = "qhU-td-rQa"; */
+"qhU-td-rQa.text" = "宝可梦序号：";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "xb7-5E-P23"; */
+"xb7-5E-P23.text" = "名字：";

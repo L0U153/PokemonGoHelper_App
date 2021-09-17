@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Pokemon Helper"; ObjectID = "001-TH-hip"; */
+"001-TH-hip.text" = "Pokemon Helper";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "2sG-Fo-Iaj"; */
+"2sG-Fo-Iaj.text" = "Subtitle";
+
+/* Class = "UIBarButtonItem"; title = "share"; ObjectID = "32e-5J-aaS"; */
+"32e-5J-aaS.title" = "share";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "5w0-SE-6hE"; */
+"5w0-SE-6hE.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Pokemon Name"; ObjectID = "9sO-Xo-40m"; */
+"9sO-Xo-40m.placeholder" = "Pokemon Name";
+
+/* Class = "UILabel"; text = "bulbasaur"; ObjectID = "C6A-6e-n5D"; */
+"C6A-6e-n5D.text" = "bulbasaur";
+
+/* Class = "UILabel"; text = "Ability: chlorophyll overgrow"; ObjectID = "LgY-j7-r5Q"; */
+"LgY-j7-r5Q.text" = "Ability: ";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "N8h-aT-oXc"; */
+"N8h-aT-oXc.title" = "Favorites";
+
+/* Class = "UITabBarItem"; title = "Browse"; ObjectID = "QBb-SP-zY2"; */
+"QBb-SP-zY2.title" = "Browse";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "SJa-Cw-VvZ"; */
+"SJa-Cw-VvZ.normalTitle" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "Vdk-52-EDh"; */
+"Vdk-52-EDh.normalTitle" = "Like";
+
+/* Class = "UINavigationItem"; title = "All Pokemon"; ObjectID = "a8z-x2-O73"; */
+"a8z-x2-O73.title" = "All Pokemon";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "b3R-Pg-Jye"; */
+"b3R-Pg-Jye.text" = "Title";
+
+/* Class = "UILabel"; text = "Type: "; ObjectID = "ivL-Jp-BRg"; */
+"ivL-Jp-BRg.text" = "Type: ";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "o7z-gn-hEJ"; */
+"o7z-gn-hEJ.title" = "Detail";
+
+/* Class = "UILabel"; text = "Pokedex: "; ObjectID = "qhU-td-rQa"; */
+"qhU-td-rQa.text" = "Pokedex: ";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "xb7-5E-P23"; */
+"xb7-5E-P23.text" = "Name: ";
